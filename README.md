@@ -42,4 +42,9 @@ Los jugadores podrán jugar partidas en tiempo real, donde cada jugador buscará
 ![Historia 3](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/historia3.PNG)![Definición 3](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/def3.PNG)
 
 
-El video juego tendrá la opción para que cada jugador pueda ver en tiempo real la tabla de puntaje global de cada jugador, donde podrá ver información de él y de cada jugador 
+El video juego tendrá la opción para que cada jugador pueda ver en tiempo real la tabla de puntaje global de cada jugador, donde podrá ver información de él y de cada jugador.
+
+
+## Licencia 📌
+
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/Count-Line/blob/master/LICENSE.txt) para obtener más detalles.
