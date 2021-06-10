@@ -23,3 +23,13 @@ Finalmente, lo que yo busco es poder traer devuelta este juego de combate espaci
 
 
 ![Galaxy](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/Galaxy.PNG)
+
+
+## Historias de usuario 📢
+
+![Historia 1](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/historia1.PNG)![Defintion 1](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/def1.PNG)
+
+
+Cada vez que un jugador termine una partida, la idea es que pueda consultar cuantos puntos hizo al destruir cada ovni y dado el caso de que hubiera destruido la nave enemiga cuantos puntos en total ganó en la partida 
+
+
