@@ -27,9 +27,19 @@ Finalmente, lo que yo busco es poder traer devuelta este juego de combate espaci
 
 ## Historias de usuario 📢
 
-![Historia 1](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/historia1.PNG)![Defintion 1](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/def1.PNG)
+![Historia 1](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/historia1.PNG)![Definición 1](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/def1.PNG)
 
 
 Cada vez que un jugador termine una partida, la idea es que pueda consultar cuantos puntos hizo al destruir cada ovni y dado el caso de que hubiera destruido la nave enemiga cuantos puntos en total ganó en la partida 
 
 
+![Historia 2](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/historia2.PNG)![Definción 2](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/def2.PNG)
+
+
+Los jugadores podrán jugar partidas en tiempo real, donde cada jugador buscará eliminar la mayor cantidad de ovnis y también poder eliminar la nave del otro jugador para así sumar la mayor cantidad de puntos
+
+
+![Historia 3](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/historia3.PNG)![Definición 3](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/images/def3.PNG)
+
+
+El video juego tendrá la opción para que cada jugador pueda ver en tiempo real la tabla de puntaje global de cada jugador, donde podrá ver información de él y de cada jugador 
