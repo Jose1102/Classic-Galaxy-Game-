@@ -47,4 +47,4 @@ El video juego tendrá la opción para que cada jugador pueda ver en tiempo real
 
 ## Licencia 📌
 
-Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/Count-Line/blob/master/LICENSE.txt) para obtener más detalles.
+Este proyecto está bajo la Licencia Pública General GNU - consulte el archivo de [LICENCIA](https://github.com/Jose1102/Classic-Galaxy-Game-/blob/main/LICENSE.txt) para obtener más detalles.
